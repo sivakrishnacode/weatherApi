@@ -34,4 +34,4 @@ Credits
 =======
 
 * Siva Krishna © 2022
-*Any quiry feel free to mail sivakrishnacoc@gmail.com
+* Any quiry feel free to mail sivakrishnacoc@gmail.com
