@@ -19,6 +19,8 @@ Installation
     npm i
 
     nodemon index.js
+    
+    Open http://localhost:3000/ via Browser
 
 Usage
 =====
